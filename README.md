@@ -2,5 +2,10 @@
 Final project
 
 1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+2. Run 
+```base
+npm instal
+l```
+3. Run ```base
+npm start
+```
